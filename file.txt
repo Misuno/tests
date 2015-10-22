@@ -1,8 +1,10 @@
 1
 first line
+1.5 first and a half
 2
-second line
-3
+second line with edits
+4
 third
+and forth
 line
-4 forth line
+5 not a forth line
